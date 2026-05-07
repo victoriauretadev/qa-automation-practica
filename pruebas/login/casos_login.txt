@@ -1,0 +1,3 @@
+CP01 - Login válido
+CP02 - Password inválida
+CP03 - Usuario inexistente
