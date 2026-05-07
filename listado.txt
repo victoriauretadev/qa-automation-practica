@@ -1,0 +1,5 @@
+config/
+evidencia/
+listado.txt
+pruebas/
+reportes/
